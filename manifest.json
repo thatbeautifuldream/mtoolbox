@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "MToolbox",
+  "description": "MToolbox is a collection of tools that help me get my daily work done.",
+  "version": "0.0.1",
+  "side_panel": {
+    "default_path": "index.html"
+  },
+  "permissions": ["sidePanel"]
+}
